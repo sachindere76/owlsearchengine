@@ -1,0 +1,59 @@
+
+1) http://stackoverflow.com/questions/28960173/how-to-use-jena-apis-to-read-data-from-an-owl-file
+2) http://stackoverflow.com/questions/14764474/extracting-data-from-owl-file
+3) https://jena.apache.org/download/index.cgi
+4) http://www.ibm.com/developerworks/xml/library/j-sparql/
+5) https://github.com/iferminm/ReasoningAndPersisting
+6) http://owlapi.sourceforge.net/
+7) https://jena.apache.org/documentation/index.html
+8) https://jena.apache.org/getting_started/index.html
+9) http://www.iandickinson.me.uk/articles/jena-eclipse-helloworld/
+10) http://jena.apache.org/documentation/io/index.html
+11) http://jena.apache.org/documentation/jdbc/index.html
+12) http://www.programcreek.com/java-api-examples/index.php?api=com.hp.hpl.jena.ontology.OntModel
+
+
+
+1) http://www.roseindia.net/jsp/searchbook.shtml
+
+
+
+Tools Used :
+1) Jena API
+2) Spring
+3) Spring WebMVC
+3) OWL file
+
+Search for SpringMVC form examples
+ 1) https://www.mkyong.com/spring-mvc/spring-mvc-dropdown-box-example/
+ 2) http://fruzenshtein.com/spring-mvc-form-select-tag/
+ 3) http://www.w3schools.com/tags/tryit.asp?filename=tryhtml_tbody
+4) http://www.mkyong.com/spring-mvc/spring-mvc-form-handling-example/
+5) http://www.javatpoint.com/spring-mvc-form-example
+6) http://crunchify.com/spring-mvc-how-to-access-modelmap-values-in-a-jsp/
+7) https://www.mkyong.com/spring-mvc/spring-mvc-dropdown-box-example/
+
+
+
+webapp(spring) -> jena api > OWL data
+
+
+Examples :
+1) In Ecliple jena-examples : If you are interested in ontologies and inference look at ExampleONT_NN.java
+and ExampleINF_NN.java.
+2) Reasoning and Persisting 
+
+TODO :
+1)	When a user clicks the ‘Search’ button in the upper part of the screen, 
+	the search options are automatically converted into SPARQL query language. 
+	The basic search function subsequently retrieves relevant knowledge from the stored semantic data. 
+	Results of the SPARQL queries are displayed in the left part of the screen.
+	 
+2)	When a document title is selected from the results,
+	the information for that document is displayed in the right part of the screen.
+	
+3) Read OWL File
+ 
+
+
+
